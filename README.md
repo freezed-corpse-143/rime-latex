@@ -2,7 +2,7 @@
 
 1. 官网[https://rime.im/](https://rime.im/)下载，安装
 
-2. 在程序文件夹下点击`WeaselSetup.exe`选择自定义的用户文件夹，点击修改文件夹
+2. 右键点击输入法图标，在程序文件夹下点击`WeaselSetup.exe`选择自定义的用户文件夹，点击修改文件夹
 
 3. 官网[https://github.com/iDvel/rime-ice/releases](https://github.com/iDvel/rime-ice/releases)下载full.zip，解压到rime程序的用户文件夹中。
 
